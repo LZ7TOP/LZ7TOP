@@ -63,5 +63,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LZ7TOP&color=00c1ff&style=flat-square&label=主页访问量" alt="Profile Views" />
+  主页访问量 
+  <img src="https://komarev.com/ghpvc/?username=LZ7TOP&color=00c1ff&style=flat-square&label=VIEWS" alt="Profile Views" />
 </p>
