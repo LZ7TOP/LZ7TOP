@@ -41,17 +41,24 @@
 
 ### 📊 GitHub 统计
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LZ7TOP&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LZ7TOP&layout=compact&theme=tokyonight&hide_border=true&locale=cn" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LZ7TOP&theme=tokyonight&hide_border=true&locale=zh_CN" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="55%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=LZ7TOP&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub Stats" />
+      </td>
+      <td width="45%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LZ7TOP&layout=compact&theme=tokyonight&hide_border=true&locale=cn" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LZ7TOP&theme=tokyonight&hide_border=true&locale=zh_CN" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
