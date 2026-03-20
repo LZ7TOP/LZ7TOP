@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    <a href="https://www.lz7.top"><img src="https://img.shields.io/badge/个人博客-lz7.top-00c1ff?style=flat-square&logo=google-chrome&logoColor=white" alt="个人博客"></a>
+    <a href="https://www.lz7.top/contact"><img src="https://img.shields.io/badge/个人网站-lz7.top-00c1ff?style=flat-square&logo=google-chrome&logoColor=white" alt="个人网站"></a>
     <a href="https://github.com/LZ7TOP"><img src="https://img.shields.io/badge/GitHub-LZ7TOP-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://www.google.com/maps/search/武汉"><img src="https://img.shields.io/badge/所在地-武汉-FF5733?style=flat-square&logo=google-maps&logoColor=white" alt="所在地"></a>
     <br />
