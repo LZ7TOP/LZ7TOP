@@ -59,6 +59,6 @@
 ---
 
 <p align="center">
-  主页访问量 
-  <img src="https://komarev.com/ghpvc/?username=LZ7TOP&color=00c1ff&style=flat-square&label=VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/主页访问量-00c1ff?style=flat-square" alt="主页访问量" />
+  <img src="https://komarev.com/ghpvc/?username=LZ7TOP&color=181717&style=flat-square&label=VISITORS" alt="Count" />
 </p>
