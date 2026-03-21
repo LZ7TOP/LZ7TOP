@@ -24,6 +24,8 @@
 - 💻 **专注领域**: 致力于打造极致用户体验的现代化 Web 应用。
 - 💡 **技术理念**: 追求简洁、高效、可维护的代码艺术。
 - 🌟 **愿景**: 通过技术连接效率与美感。
+- 🏡 **个人网站**:[https://www.lz7.top/contact](https://www.lz7.top/contact)
+- 🎉 **开源作品**:[BitMemo（像素记）](https://github.com/LZ7TOP/BitMemo)
 
 ---
 
