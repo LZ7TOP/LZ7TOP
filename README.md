@@ -25,7 +25,7 @@
 - 💡 **技术理念**: 追求简洁、高效、可维护的代码艺术。
 - 🌟 **愿景**: 通过技术连接效率与美感。
 - 🏡 **个人网站**:[LZ7TOP](https://www.lz7.top/contact)
-- 🎉 **开源作品**:[BitMemo（像素记）](https://github.com/LZ7TOP/BitMemo) · [InsightTrack（注意力追踪）](https://github.com/LZ7TOP/InsightTrack)
+- 🎉 **开源作品**:[BitMemo（像素记）](https://github.com/LZ7TOP/BitMemo) · [InsightTrack（网页时间统计）](https://github.com/LZ7TOP/InsightTrack)
 
 ---
 
