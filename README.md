@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    <a href="https://lz7.com.cn/contact"><img src="https://img.shields.io/badge/个人网站-lz7.top-00c1ff?style=flat-square&logo=google-chrome&logoColor=white" alt="个人网站"></a>
+    <a href="https://lz7.com.cn/contact"><img src="https://img.shields.io/badge/个人网站-lz7.com.cn-00c1ff?style=flat-square&logo=google-chrome&logoColor=white" alt="个人网站"></a>
     <a href="https://github.com/LZ7TOP"><img src="https://img.shields.io/badge/GitHub-LZ7TOP-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://www.google.com/maps/search/武汉"><img src="https://img.shields.io/badge/所在地-武汉-FF5733?style=flat-square&logo=google-maps&logoColor=white" alt="所在地"></a>
     <br />
@@ -21,11 +21,11 @@
 
 你好！我是 **LZ7**，一名生活在**武汉**的开发者。我热爱探索未知，坚持在繁杂的信息中保持**独立思考**。
 
-- 💻 **专注领域**: 致力于打造极致用户体验的现代化 Web 应用。
-- 💡 **技术理念**: 追求简洁、高效、可维护的代码艺术。
-- 🌟 **愿景**: 通过技术连接效率与美感。
-- 🏡 **个人网站**:[LZ7TOP](https://www.lz7.top/contact)
-- 🎉 **开源作品**:[BitMemo（像素记）](https://github.com/LZ7TOP/BitMemo) · [InsightTrack（网页时间统计）](https://github.com/LZ7TOP/InsightTrack)
+-  **专注领域**: 致力于打造极致用户体验的现代化 Web 应用。
+-  **技术理念**: 追求简洁、高效、可维护的代码艺术。
+-  **愿景**: 通过技术连接效率与美感。
+-  **个人网站**:[LZ7TOP](https://lz7.com.cn/contact)
+-  **开源项目**:[BitMemo（像素记）](https://github.com/LZ7TOP/BitMemo) · [InsightTrack（网页时间统计）](https://github.com/LZ7TOP/InsightTrack) · [MACNetworkDoctor（MAC网络诊断）](https://github.com/LZ7TOP/MACNetworkDoctor)
 
 ---
 
