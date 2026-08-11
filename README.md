@@ -25,7 +25,7 @@
 -  **技术理念**: 追求简洁、高效、可维护的代码艺术。
 -  **愿景**: 通过技术连接效率与美感。
 -  **个人网站**:[LZ7TOP](https://lz7.com.cn/contact)
--  **开源项目**:[BitMemo（像素记）](https://github.com/LZ7TOP/BitMemo) · [InsightTrack（网页时间统计）](https://github.com/LZ7TOP/InsightTrack) · [MACNetworkDoctor（MAC网络诊断）](https://github.com/LZ7TOP/MACNetworkDoctor)
+-  **开源项目**:[QuarkDriveMaster（夸克网盘全能管理工具）](https://github.com/LZ7TOP/quark-drive-master-extension) · [BitMemo（像素记）](https://github.com/LZ7TOP/BitMemo) · [InsightTrack（网页时间统计）](https://github.com/LZ7TOP/InsightTrack) · [MACNetworkDoctor（MAC网络诊断）](https://github.com/LZ7TOP/MACNetworkDoctor)
 
 ---
 
